@@ -2,10 +2,9 @@
 layout: post
 title: "Test Management as a DevOps Force Multiplier: A Practical Guide"
 description: "Stop treating test management like overhead. Here's how teams are using it to ship faster, catch bugs earlier, and make smarter quality decisions."
-date: 2025-10-22
+date: 2026-04-25
 author: Matt Calder
 tags: [devops, test-management, qa, ci-cd, automation, software-quality]
-image: /assets/img/test-management-devops.png
 ---
 
 # Test Management as a DevOps Force Multiplier: A Practical Guide
